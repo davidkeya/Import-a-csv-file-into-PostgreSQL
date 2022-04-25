@@ -1,5 +1,5 @@
 # Here’s How to import a csv file into PostgreSQL
-
+![](csv.gif)
 ### What you need
 1.	Sqlite3
 2.	Db Browser for SQLite
