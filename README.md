@@ -5,7 +5,7 @@
 2.	Db Browser for SQLite
 3.	Text editor like atom
 
-Follow through the steps below
+Follow through the steps below ![](file.gif)
 1. Import and create table
 -	Download the .csv file
 -	Open Db Browser for SQLite
